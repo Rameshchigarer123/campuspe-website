@@ -1,7 +1,8 @@
+
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Matching from "./components/matching";
-import ResumeUpload from "./components/ResumeUpload";
+import ResumeUpload from "./components/resumeupload";
 import CollegeSection from "./components/collegesection";
 import EmployersSection from "./components/employersection";
 import AppInterface from "./components/Appinterface";
