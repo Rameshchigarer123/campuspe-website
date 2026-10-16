@@ -1,4 +1,4 @@
-import "./CollegeSection.css";
+import "./collegesection.css";
 
 function CollegeSection() {
   const features = [

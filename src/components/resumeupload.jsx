@@ -1,4 +1,4 @@
-import "./ResumeUpload.css";
+import "./resumeupload.css";
 
 function ResumeUpload() {
   return (
